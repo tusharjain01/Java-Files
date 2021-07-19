@@ -1,6 +1,7 @@
 package main;
 
 import java.util.Scanner;
+// Span of array means maximum element minus minimum element
 
 public class spanOfArray {
     public static void main(String[] args) {
