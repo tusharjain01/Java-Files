@@ -1,4 +1,3 @@
-package main;
 import java.util.*;
 public class reverseOfArray {
     public static void main(String[] args) {

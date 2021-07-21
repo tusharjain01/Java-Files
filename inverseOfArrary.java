@@ -1,4 +1,3 @@
-package main;
 import java.util.*;
 public class inverseOfArrary {
     public static void display(int []a){
