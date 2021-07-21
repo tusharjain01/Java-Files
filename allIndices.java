@@ -13,6 +13,9 @@ public class allIndices {
             System.out.print(li[i] + " ");
         }
     }
+    //Fsf will be saving the no. of times number x appeared will going up
+    //while returning at the base at the base case we have created array of 
+    // size fsf .
     public static int[] indices(int []arr,int x,int idx,int fsf) {
         if(idx == arr.length){
             return new int[fsf];
