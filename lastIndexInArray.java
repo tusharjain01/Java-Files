@@ -11,6 +11,8 @@ public class lastIndexInArray {
         int li = lastIndex(arr, 0, d);
         System.out.println(li);
     }
+    // Here we directly went to the last index of array.
+    // If we found the number while returning we just return that index.
     public static int lastIndex(int []arr,int idx,int n) {
         if(idx == arr.length){
             return -1;
