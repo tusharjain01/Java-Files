@@ -6,7 +6,7 @@ Here in this repositry I have uploaded my codes which i have learned while learn
 ## CONTENT
 
 |Index|Codes|
-|:----:||:----:|
+|:----||:----:|
 |1||allIndices.java|
 |-|
 |2||anyBaseMultiplication.java|
